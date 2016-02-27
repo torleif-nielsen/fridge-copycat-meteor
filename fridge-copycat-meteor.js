@@ -1,3 +1,4 @@
+Products = new Mongo.Collection('products');
 if (Meteor.isClient) {
   // counter starts at 0
   Session.setDefault('counter', 0);
