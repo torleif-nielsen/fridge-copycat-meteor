@@ -14,3 +14,14 @@
   float: right;
   width: 37%;
 }
+
+ul {
+  list-style-type: none;
+}
+
+#fridge{
+  background-image: url("/empty-fridge.jpg");
+  background-size: initial;
+  min-height: 800px;
+  max-width: 467px;
+}
